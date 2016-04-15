@@ -29,3 +29,7 @@ JSConfUYReads
 
 ## Lateralus: A Distributed Relay System In Javascript
 - [ ] [Slides](http://tiny.cc/orbuay)
+
+## Taking on Genetically Evolving Cellular Automta with JavaScript
+- [ ] [Slides](http://lrlna.github.io/jsconf-uy-automata/#1)
+- [ ] [Repo](https://github.com/lrlna/jsconf-uy-automata)
