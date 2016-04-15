@@ -11,8 +11,10 @@ JSConfUYReads
 - [ ] Virtual Machines, Js and Assembler - Scott Hanselman
 - [ ] Evolution of Js III
 
-## Debugging JavaScript with Chrome DevTools
+## Cross-Platform Desktop Apps with Electron
+- [ ] [Slides](http://www.slideshare.net/reverentgeek/crossplatform-desktop-apps-with-electron-jsconf-uy)
 
+## Debugging JavaScript with Chrome DevTools
 - [ ] [Talk slides and resources](http://www.mattzeunert.com/talks/js-debugging/index.html)
 - [ ] [Custom Object Formatters](https://docs.google.com/document/d/1FTascZXT9cxfetuPRT2eXPQKXui4nWFivUnS_335T3U/preview)
 - [ ] [Immutable DevTools](https://github.com/andrewdavey/immutable-devtools)
@@ -24,3 +26,6 @@ JSConfUYReads
 - [ ] [Debugging pages on an Android phone](https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging)
 - [ ] [Sublime Web Inspector](http://sokolovstas.github.io/SublimeWebInspector/)
 - [ ] [Dev Tools Tips (with gifs!)](https://umaar.com/dev-tips/1)
+
+## Lateralus: A Distributed Relay System In Javascript
+- [ ] [Slides](http://tiny.cc/orbuay)
