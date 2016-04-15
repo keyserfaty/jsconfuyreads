@@ -13,6 +13,7 @@ JSConfUYReads
 
 ## Debugging JavaScript with Chrome DevTools
 
+- [ ] [Talk slides and resources](http://www.mattzeunert.com/talks/js-debugging/index.html)
 - [ ] [Custom Object Formatters](https://docs.google.com/document/d/1FTascZXT9cxfetuPRT2eXPQKXui4nWFivUnS_335T3U/preview)
 - [ ] [Immutable DevTools](https://github.com/andrewdavey/immutable-devtools)
 - [ ] [Immutable Object Formatter (Chrome Extension)](https://chrome.google.com/webstore/detail/immutablejs-object-format/hgldghadipiblonfkkicmgcbbijnpeog)
@@ -22,4 +23,4 @@ JSConfUYReads
 - [ ] [Node-inspector / node-debug (Use DevTools with Node)](https://github.com/node-inspector/node-inspector)
 - [ ] [Debugging pages on an Android phone](https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging)
 - [ ] [Sublime Web Inspector](http://sokolovstas.github.io/SublimeWebInspector/)
-- [ ] [Dev Tools Tips (with gifs!)](https://umaar.com/dev-tips/)
+- [ ] [Dev Tools Tips (with gifs!)](https://umaar.com/dev-tips/1)
