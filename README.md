@@ -10,3 +10,4 @@ JSConfUYReads
 - [ ] Javascript at 20 - Brendan Eich
 - [ ] Virtual Machines, Js and Assembler - Scott Hanselman
 - [ ] Evolution of Js III
+- [ ] https://github.com/v8/v8
