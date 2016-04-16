@@ -39,3 +39,9 @@ JSConfUYReads
 
 ## Design Decisions In JSPM
 - [ ] [JSPM](http://jspm.io/)
+
+# Workshops
+
+## Angular 2.0
+- [ ] [Slides](https://t.co/Yyg0ZZaY3m)
+- [ ] [Repo](https://t.co/6dqFuy3960)
