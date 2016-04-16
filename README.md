@@ -30,7 +30,7 @@ JSConfUYReads
 ## Lateralus: A Distributed Relay System In Javascript
 - [ ] [Slides](http://tiny.cc/orbuay)
 
-## Taking on Genetically Evolving Cellular Automta with JavaScript
+## Taking on Genetically Evolving Cellular Automata with JavaScript
 - [ ] [Slides](http://lrlna.github.io/jsconf-uy-automata/#1)
 - [ ] [Repo](https://github.com/lrlna/jsconf-uy-automata)
 
@@ -39,3 +39,8 @@ JSConfUYReads
 
 ## Design Decisions In JSPM
 - [ ] [JSPM](http://jspm.io/)
+
+## Statistical Programming with Javascript
+- [ ] [Slides](http://www.slideshare.net/DavidSimons5/statistical-programming-with-javascript)
+- [ ] [Examples](http://swamwithturtles.github.io/js-statistics/)
+- [ ] [Code](https://github.com/swamwithturtles/js-statistics)
