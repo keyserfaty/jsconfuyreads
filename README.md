@@ -44,3 +44,6 @@ JSConfUYReads
 - [ ] [Slides](http://www.slideshare.net/DavidSimons5/statistical-programming-with-javascript)
 - [ ] [Examples](http://swamwithturtles.github.io/js-statistics/)
 - [ ] [Code](https://github.com/swamwithturtles/js-statistics)
+
+## The Node.js Project
+- [ ] [Slides](http://www.slideshare.net/rvagg/jsconfuy-the-nodejs-project-rvagg)
