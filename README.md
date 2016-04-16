@@ -33,3 +33,9 @@ JSConfUYReads
 ## Taking on Genetically Evolving Cellular Automta with JavaScript
 - [ ] [Slides](http://lrlna.github.io/jsconf-uy-automata/#1)
 - [ ] [Repo](https://github.com/lrlna/jsconf-uy-automata)
+
+## Programming the JS Future
+- [ ] [The Art Of Unix Programming](http://catb.org/esr/writings/taoup/)
+
+## Design Decisions In JSPM
+- [ ] [JSPM](http://jspm.io/)
