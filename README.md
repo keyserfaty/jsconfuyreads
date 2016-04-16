@@ -44,3 +44,9 @@ JSConfUYReads
 - [ ] [Slides](http://www.slideshare.net/DavidSimons5/statistical-programming-with-javascript)
 - [ ] [Examples](http://swamwithturtles.github.io/js-statistics/)
 - [ ] [Code](https://github.com/swamwithturtles/js-statistics)
+
+# Workshops
+
+## Angular 2.0
+- [ ] [Slides](https://t.co/Yyg0ZZaY3m)
+- [ ] [Repo](https://t.co/6dqFuy3960)
