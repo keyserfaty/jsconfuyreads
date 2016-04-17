@@ -11,3 +11,8 @@ JSConfUYReads - Workshops
 ### Ember 2.0
 
 - [ ] [Slides](https://docs.google.com/presentation/d/1EX0ft7RjVl3k_ijEnU3apyeWpUOgtjLo0c8JjpyGza0/edit)
+
+### Electron
+
+- [ ] [Slides](https://github.com/reverentgeek/electron-workshop/raw/master/Electron%20Workshop.pdf)
+- [ ] [Repo](https://github.com/reverentgeek/electron-workshop)
