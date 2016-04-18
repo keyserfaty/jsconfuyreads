@@ -25,7 +25,7 @@ JSConfUYReads
 - [ ] [Node-inspector / node-debug (Use DevTools with Node)](https://github.com/node-inspector/node-inspector)
 - [ ] [Debugging pages on an Android phone](https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging)
 - [ ] [Sublime Web Inspector](http://sokolovstas.github.io/SublimeWebInspector/)
-- [ ] [Dev Tools Tips (with gifs!)](https://umaar.com/dev-tips/1)
+- [ ] [Dev Tools Tips (with gifs!)](https://umaar.com/dev-tips/)
 
 ## Lateralus: A Distributed Relay System In Javascript
 - [ ] [Slides](http://tiny.cc/orbuay)
